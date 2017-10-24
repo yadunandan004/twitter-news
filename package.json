@@ -1,6 +1,6 @@
 {
   "name": "twitter-news",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Npm Module to provide list of news articles for a particular twitter topic",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.2",
     "request": "^2.83.0"
   }
 }
