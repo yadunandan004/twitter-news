@@ -1,0 +1,28 @@
+{
+  "name": "twitter-news",
+  "version": "0.0.1",
+  "description": "Npm Module to provide list of news articles for a particular twitter topic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+  	"type":"git",
+  	"url":"https://github.com/yadunandan004/twitter-news"
+  },
+  "keywords":[
+  	"twitter",
+  	"news",
+  	"media"
+  ],
+  "author": "yadu <yadunandan4992@gmail.com> (https://yadunandan4992.com)",
+  "license": "ISC",
+  "bugs":{
+  	"url":"https://github.com/yadunandan004/twitter-news/issues"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
