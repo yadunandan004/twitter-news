@@ -1,6 +1,6 @@
 {
   "name": "twitter-news",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Npm Module to provide list of news articles for a particular twitter topic",
   "main": "index.js",
   "scripts": {
