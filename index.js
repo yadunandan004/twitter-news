@@ -22,7 +22,7 @@ function tnews(topic="")
 					var urls={}
 					$(stream).children().each(function(idx,ele){
 						var temp={};
-						temp['src']=$(ele).find('.twitter-timeline-link').attr('href');
+						temp['src']=$(ele).find('.twitter-timeline-link').attr('data-expanded-url');
 						if (!(temp['src'] in urls))
 						{
 							r.push(temp);	
