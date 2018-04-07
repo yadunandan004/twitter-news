@@ -28,6 +28,6 @@ Twitter News
 	   });
 
 ## Release History
-
+*0.3.0 Minor code changes, updated request version
 *0.2.0 Added support for News title,image and description
 * 0.1.0 Initial release
